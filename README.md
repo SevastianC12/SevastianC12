@@ -1,5 +1,8 @@
 ## Hi I'm Sevastian 👋
-- 🔭 I’m currently working on a cybersecurity degree 
+- 🔭 I’m currently working on a cybersecurity degree
+- 👨🏽‍💻 I want to make a video game in the future.
+- ⚡ Fun fact about me is that I love to play basketball🏀 my favorite team is the Los Angeles Lakers, and I also love to play video games my current favorite game to play is Call of Duty 🎮.
+
 <!--
 **SevastianC12/SevastianC12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
